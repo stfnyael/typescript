@@ -9,7 +9,7 @@ export type province = {
     department_id: number
 }
 
-export type distric = {
+export type district = {
     id: number,
     name:string,
     department_id: number,
